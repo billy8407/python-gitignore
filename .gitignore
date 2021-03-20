@@ -141,4 +141,7 @@ cython_debug/
 Application/
 Mozilla Firefox/
 
+# virtualenvwrapper-win setting files
+.vscode/
+
 
