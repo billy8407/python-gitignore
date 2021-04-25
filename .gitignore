@@ -147,6 +147,11 @@ Mozilla Firefox/
 # aws package
 package/
 
-# zip
+# compression files
 *.zip
+*.rar
+
+# data files
+data/
+output/
 
