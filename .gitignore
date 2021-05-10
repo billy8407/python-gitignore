@@ -144,8 +144,9 @@ Mozilla Firefox/
 # virtualenvwrapper-win setting files
 .vscode/
 
-# AWS package
+# AWS custom package
 package/
+aws-package/
 
 # compression files
 *.zip
