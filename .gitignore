@@ -148,6 +148,9 @@ Mozilla Firefox/
 package/
 aws-package/
 
+# AWS temporary folder
+tmp/
+
 # compression files
 *.zip
 *.rar
