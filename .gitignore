@@ -159,3 +159,5 @@ tmp/
 data/
 output/
 
+# google oauth credentials folder
+google_oauth_token/
