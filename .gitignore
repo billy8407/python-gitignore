@@ -148,6 +148,9 @@ Mozilla Firefox/
 package/
 aws-package/
 
+# AWS custom layer
+layer/
+
 # AWS temporary folder
 tmp/
 
