@@ -144,6 +144,9 @@ Mozilla Firefox/
 # virtualenvwrapper-win setting files
 .vscode/
 
+# AWS Lambda upload file folder
+lambda/
+
 # AWS custom package
 package/
 aws-package/
@@ -167,3 +170,4 @@ google_oauth_token/
 
 # credentials folder
 credential/
+
