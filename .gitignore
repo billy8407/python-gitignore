@@ -143,6 +143,8 @@ Mozilla Firefox/
 
 # virtualenvwrapper-win setting files
 .vscode/
+Scripts/
+pyvenv.cfg
 
 # AWS Lambda upload file folder
 lambda/
