@@ -168,6 +168,9 @@ tmp/
 data/
 output/
 
+# test files folder
+test/
+
 # log folder
 log/
 
