@@ -138,6 +138,14 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# excel
+*.csv
+*.xlsx
+*.xlsm
+
+# vba
+*.bin
+
 # browsers
 Application/
 Mozilla Firefox/
