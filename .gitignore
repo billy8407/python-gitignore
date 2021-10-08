@@ -185,3 +185,5 @@ google_oauth_token/
 # credentials folder
 credential/
 
+# pycharm checkpoint?
+.idea/
