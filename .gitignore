@@ -187,3 +187,11 @@ credential/
 
 # pycharm checkpoint?
 .idea/
+
+# AI model
+model/
+checkpoint/
+
+# training images
+*.jpg
+*.png
