@@ -150,6 +150,10 @@ cython_debug/
 Application/
 Mozilla Firefox/
 
+# web drivers
+geckodriver.exe
+chromedriver.exe
+
 # virtualenvwrapper-win setting files
 .vscode/
 Scripts/
